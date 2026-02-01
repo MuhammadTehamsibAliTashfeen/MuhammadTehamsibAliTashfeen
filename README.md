@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=500&color=38BDF8&center=true&vCenter=true&width=700&lines=PhD+Student+%7C+Mobile+Security+%26+AI;Android+App+Vulnerability+Analysis;Program+Analysis+%7C+ML+%7C+Static+%26+Dynamic+Testing)](https://git.io/typing-svg)
 
-[![LinkedIn](https://www.linkedin.com/in/muhammad-tehmasib-ali-tashfeen-b683831a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammad-tehmasib-ali-tashfeen-b683831a5/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mxalitashfeen@shockers.wichita.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MuhammadTehamsibAliTashfeen)
 
