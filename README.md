@@ -92,15 +92,9 @@ timeline
 
 ---
 
-## 📊 GitHub Analytics
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadTehamsibAliTashfeen&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTehamsibAliTashfeen&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadTehamsibAliTashfeen&theme=transparent&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadTehamsibAliTashfeen&bg_color=0f172a&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
