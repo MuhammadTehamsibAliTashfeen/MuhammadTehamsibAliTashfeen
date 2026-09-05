@@ -9,3 +9,21 @@
 </h1>
 
 ### My research focuses on static program analysis for Android software reliability and security, with particular interest in mobile security, Android framework behavior, and lifecycle mismatch analysis. I also work on AI for software engineering, including fine-tuned LLMs for code and defect reasoning, as well as empirical software engineering through benchmark construction, manual validation, and reproducible evaluation.
+
+
+- 🌱 I’m currently learning **[Advance Algorithms](https://www.geeksforgeeks.org/dsa/advanced-data-structures/)**
+- 💬 Ask me about **Java, Program Analysis, STAST...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+
+<br>
+
+<div align="center">
+  <a href="alitashfeenm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-tehmasib-ali-tashfeen-b683831a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+
+</div>
+
+<hr>
