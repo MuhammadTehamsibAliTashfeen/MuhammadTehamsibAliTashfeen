@@ -27,3 +27,62 @@
 </div>
 
 <hr>
+
+
+## 🛠️ Languages, Tools & Research Stack
+
+<div align="center">
+
+###  Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,kotlin,javascript,html,css&theme=dark" />
+
+<br><br>
+
+###  Development & Platforms
+
+<img src="https://skillicons.dev/icons?i=androidstudio,bash,docker,gradle,linux,git,github,vscode,idea&theme=dark" />
+
+<br><br>
+
+###  AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LLMs-🤖-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Code_Reasoning-🧠-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fine--Tuning-⚙️-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_for_SE-✨-blue?style=for-the-badge" />
+
+<br><br>
+
+###  Software Engineering Research
+
+<img src="https://img.shields.io/badge/Static_Analysis-🔍-informational?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Program_Analysis-🧩-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software_Reliability-🛡️-green?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Empirical_SE-📊-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Benchmark_Construction-📚-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reproducible_Evaluation-🔁-brightgreen?style=for-the-badge" />
+
+<br><br>
+
+###  Mobile & Android Security
+
+<img src="https://img.shields.io/badge/Android_Security-🤖-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Mobile_Security-🔐-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Framework_Analysis-⚙️-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Lifecycle_Analysis-♻️-green?style=for-the-badge" />
+
+<br><br>
+
+
+</div>
+
+<hr>
+
