@@ -12,7 +12,7 @@
 
 
 - 🌱 I’m currently learning **[Advance Algorithms](https://www.geeksforgeeks.org/dsa/advanced-data-structures/)**
-- 💬 Ask me about **Java, Program Analysis, STAST...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 💬 Ask me about **Java, Program Analysis, STAST...or anything [here](alitashfeenm@gmail.com)**
 
 
 
