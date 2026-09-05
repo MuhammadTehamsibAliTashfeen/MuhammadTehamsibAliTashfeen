@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/MuhammadTehamsibAliTashfeen/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadTehamsibAliTashfeen&style=flat-square" alt="Profile Views" />
 </div>
