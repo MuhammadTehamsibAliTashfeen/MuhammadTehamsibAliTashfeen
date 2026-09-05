@@ -24,6 +24,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
+  <a href="https://muhammadtehamsibalitashfeen.github.io/"> <img src="https://img.shields.io/badge/🌐_Academic_Website-4493F8?style=for-the-badge" alt="Academic Website" /> </a>
+
 </div>
 
 <hr>
@@ -80,4 +82,31 @@
 </div>
 
 <hr>
+
+
+## ⚡️ GitHub Stats
+
+<br>
+
+<div align="center">
+
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadTehamsibAliTashfeen&theme=transparent" alt="GitHub Stats" />
+
+<img width="390" src="https://streak-stats.demolab.com?user=MuhammadTehamsibAliTashfeen&theme=transparent&border_radius=10" alt="GitHub Streak" />
+
+<br><br>
+
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadTehamsibAliTashfeen&theme=transparent" alt="Languages by Repository" />
+
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadTehamsibAliTashfeen&theme=transparent" alt="Languages by Commit" />
+
+<br><br>
+
+<img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadTehamsibAliTashfeen&theme=transparent" alt="GitHub Contribution Details" />
+
+</div>
+
+<hr>
+
+
 
